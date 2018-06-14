@@ -1,0 +1,16 @@
+2018-06-14 23:02:41:034 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6616.01000000"}
+2018-06-14 23:06:45:576 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6613.75000000"}
+2018-06-14 23:08:46:852 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6610.39000000"}
+2018-06-14 23:09:56:126 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6607.00000000"}
+2018-06-14 23:15:36:051 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6601.99000000"}
+2018-06-14 23:18:36:549 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6599.52000000"}
+2018-06-14 23:22:45:761 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6601.91000000"}
+2018-06-14 23:25:42:306 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6588.46000000"}
+2018-06-14 23:32:08:740 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6590.90000000"}
+2018-06-14 23:34:02:705 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6603.45000000"}
+2018-06-14 23:39:23:282 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6647.09000000"}
+2018-06-14 23:42:33:361 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6640.00000000"}
+2018-06-14 23:46:35:205 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6623.16000000"}
+2018-06-14 23:48:36:166 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6629.00000000"}
+2018-06-14 23:52:57:161 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6642.56000000"}
+2018-06-14 23:53:50:315 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6639.86000000"}
