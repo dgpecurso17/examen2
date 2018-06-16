@@ -46,13 +46,13 @@ public class MyController extends AbstractVerticle {
 	Map<Object, Object> info = new HashMap<>();
 	for(long n = 1; n <= numero; n++)
 	{
-		r += Math.log(n);
+		r += (Math.log(n)/ Math.log(10));
 		
-		info.put((new Long(n)).toString(), Math.round(r));
+		//info.put((new Long(n)).toString(), (Math.log(n)/ Math.log(10)));
 		
 	}
 	long resultado = (new Double(r)).longValue();
-	info.put("r1",(new Long(resultado)).toString());
+	info.put("cifras",(new Long(resultado + 1)).toString());
 	
 
 
