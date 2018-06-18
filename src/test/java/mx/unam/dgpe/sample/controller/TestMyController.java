@@ -12,6 +12,7 @@ public class TestMyController extends AbstractVerticle {
     
     @Test
     public void ok() throws Exception {
+        System.out.println("Estoy a punto de ejecutar una prueba que va a fallar!");
         assertTrue("La prueba fallò", false);
     }
 
