@@ -16,7 +16,10 @@ import io.vertx.ext.web.handler.StaticHandler;
 
 public class MyController extends AbstractVerticle {
     private static final Logger logger = Logger.getLogger(MyController.class);
-    
+     /**
++     * Este es un ejemplo de documentación javaDoc
++     * @param args
++     */
     public void start(Future<Void> fut) {
         logger.info("Inicializando Vertical");
         Router router = Router.router(vertx);
